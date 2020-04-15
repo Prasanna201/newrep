@@ -5,5 +5,7 @@ public class Git_Demo {
 	//this will work
 	//good job
 	//I am making changes in sruthi branch
-	//I am on hari now
+    //after conflick i am keeping this
+	//I am on hari 
+	//merge this with hari bran
 }
